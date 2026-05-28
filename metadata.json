@@ -1,0 +1,6 @@
+{
+  "name": "羊了個羊 - Emoji 消除遊戲",
+  "description": "以《羊了個羊》為靈感的高質感 3D 層疊 3 消除遊戲，具備卡牌遮擋偵測、多關卡設計、精緻動效與多種輔助道具。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
